@@ -1,0 +1,67 @@
+h1 {
+	color:darkblue;
+	font-family: roboto;
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+
+}
+h3 {
+	color:darkblue;
+	font-family: roboto ;
+}
+
+h4 {
+	color:darkblue;
+	font-family: roboto ;
+	text-align: center;
+}
+	
+Body {
+	margin: 0px; padding: 0px; background-image:url("image.jpg") ; background-size: cover ;
+}
+
+
+.title{
+	color:blue ;
+	text-align: center;
+  }
+
+#fb {
+	position:absolute; 
+	top : 400px ;
+	left: 250px ;
+
+}
+#link {
+	position:absolute; 
+	top : 400px ;
+	left: 650px ;
+	
+	
+}
+
+#git {
+	position:absolute; 
+	top : 400px ;
+	left: 1000px ;
+}
+#form {
+	position:absolute; 
+	top : 500px ;
+	left: 50px ;
+
+}
+#song {
+	position:absolute; 
+	top : 380px ;
+	left: 550px ;
+
+}
+p {
+	color:lavender;
+	font-family: roboto;
+	font-size :26px;
+	
+
+}
